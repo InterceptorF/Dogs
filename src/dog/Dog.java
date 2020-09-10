@@ -43,6 +43,6 @@ class Dog {
            System.out.println(name + " says BARK!!");
        }
        public void chase() {
-           System.out.println(name + " CHASE CHASE CHASE");
+           System.out.println(name + " RUN  CHASE CHASE");
        }
     } 
